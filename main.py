@@ -15,8 +15,8 @@ os.environ["CUDA_VISIBLE_DEVICES"] = "0" ## use GPU or not
 IS_TRAINING = False
 
 # True for RGB images fusion phase
-is_RGB = True
-# is_RGB = False
+# is_RGB = True
+is_RGB = False
 
 BATCH_SIZE = 2
 EPOCHES = 50  ## default= 50
