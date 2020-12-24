@@ -1,7 +1,7 @@
 # SEDRFuse
 This code is for ''SEDRFuse: A Symmetric Enocder-Decoder with Residual Network for Infrared and Visible Image Fusion'' published in TIM2020
 # Citation
-If you use this code, please cite these two articles below.
+If you use this code, please cite the following two articles.
 
 @Article{jian2020sedrfuse,
   author    = {Jian, Lihua and Yang, Xiaomin and Liu, Zheng and Jeon, Gwanggil and Gao, Mingliang and Chisholm, David},
