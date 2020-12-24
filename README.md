@@ -1,6 +1,6 @@
 # SEDRFuse
 This code is for ''SEDRFuse: A Symmetric Enocder-Decoder with Residual Network for Infrared and Visible Image Fusion'' published in TIM2020
-# Citation
+# Citations
 If you use this code, please cite the following two articles.
 
 @Article{jian2020sedrfuse,
@@ -10,11 +10,11 @@ If you use this code, please cite the following two articles.
   year      = {2020},\
   publisher = {IEEE},\
 }
-
+\
 @Article{li2018densefuse,
-  author    = {Li, Hui and Wu, Xiao-Jun},
-  title     = {DenseFuse: A Fusion Approach to Infrared and Visible Images},
-  journal   = {IEEE Transactions on Image Processing},
-  year      = {2018},
-  publisher = {IEEE},
+  author    = {Li, Hui and Wu, Xiao-Jun},\
+  title     = {DenseFuse: A Fusion Approach to Infrared and Visible Images},\
+  journal   = {IEEE Transactions on Image Processing},\
+  year      = {2018},\
+  publisher = {IEEE},\
 }
