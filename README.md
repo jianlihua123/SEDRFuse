@@ -5,9 +5,13 @@ If you use this code, please cite the following two articles.
 
 @Article{jian2020sedrfuse,
   author    = {Jian, Lihua and Yang, Xiaomin and Liu, Zheng and Jeon, Gwanggil and Gao, Mingliang and Chisholm, David},
+  
   title     = {SEDRFuse: A Symmetric Encoder-Decoder with Residual Block Network for Infrared and Visible Image Fusion},
+  
   journal   = {IEEE Transactions on Instrumentation and Measurement},
+  
   year      = {2020},
+  
   publisher = {IEEE},
 }
 
