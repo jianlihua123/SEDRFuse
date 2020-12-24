@@ -21,6 +21,6 @@ def max_fuse(source_en_a, source_en_b):
 
     result = np.stack(result, axis=-1)
 
-    resule_tf = np.reshape(result, (dimension[0], dimension[1], dimension[2], dimension[3]))
+    result_tf = np.reshape(result, (dimension[0], dimension[1], dimension[2], dimension[3]))
 
-    return resule_tf
+    return result_tf
