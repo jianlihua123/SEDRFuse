@@ -3,18 +3,23 @@ This code is for ''SEDRFuse: A Symmetric Enocder-Decoder with Residual Network f
 # Citations
 If you use this code, please cite the following two articles.
 
-@Article{jian2020sedrfuse,
-  author    = {Jian, Lihua and Yang, Xiaomin and Liu, Zheng and Jeon, Gwanggil and Gao, Mingliang and Chisholm, David}, \
-  title     = {SEDRFuse: A Symmetric Encoder-Decoder with Residual Block Network for Infrared and Visible Image Fusion},\
-  journal   = {IEEE Transactions on Instrumentation and Measurement},\
-  year      = {2020},\
-  publisher = {IEEE},\
-}
+@article{jian2020sedrfuse,\
+  title={SEDRFuse: A Symmetric Encoder--Decoder With Residual Block Network for Infrared and Visible Image Fusion},\
+  author={Jian, Lihua and Yang, Xiaomin and Liu, Zheng and Jeon, Gwanggil and Gao, Mingliang and Chisholm, David},\
+  journal={IEEE Transactions on Instrumentation and Measurement},\
+  volume={70},\
+  pages={1--15},\
+  year={2020},\
+  publisher={IEEE}\
+}\
 \
-@Article{li2018densefuse,
-  author    = {Li, Hui and Wu, Xiao-Jun},\
-  title     = {DenseFuse: A Fusion Approach to Infrared and Visible Images},\
-  journal   = {IEEE Transactions on Image Processing},\
-  year      = {2018},\
-  publisher = {IEEE},\
+@article{li2018densefuse,\
+  title={DenseFuse: A fusion approach to infrared and visible images},\
+  author={Li, Hui and Wu, Xiao-Jun},\
+  journal={IEEE Transactions on Image Processing},\
+  volume={28},\
+  number={5},\
+  pages={2614--2623},\
+  year={2018},\
+  publisher={IEEE}\
 }
