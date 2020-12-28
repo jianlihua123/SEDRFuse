@@ -26,4 +26,4 @@ If you use this code, please cite the following two articles.
 
 # Acknowledgements
 
-Thank https://github.com/hli1221, Our code structure is derived from his repository imagefusion_densefuse.
+Thank [hli1221] (https://github.com/hli1221), Our code structure is derived from his repository imagefusion_densefuse.
