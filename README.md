@@ -23,3 +23,7 @@ If you use this code, please cite the following two articles.
   year={2018},\
   publisher={IEEE}\
 }
+
+# Acknowledgements
+
+Thank https://github.com/hli1221, Our code structure is derived from his repository imagefusion_densefuse.
