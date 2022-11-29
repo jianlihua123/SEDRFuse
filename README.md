@@ -11,6 +11,7 @@ If you use this code, please cite the following two articles.
   pages={1--15},\
   year={2020},\
   publisher={IEEE}\
+  doi={10.1109/TIM.2020.3022438}}\
 }\
 \
 @article{li2018densefuse,\
